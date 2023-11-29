@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.2)  29 NOV 2023 18:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.2)  29 NOV 2023 19:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1018,18 +1018,18 @@ Overfull \hbox (0.81801pt too wide) in paragraph at lines 30--31
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
 [1{C:/Users/HazemHossamHelmySour/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 
-{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc} <./collagelogo.png>]
-Overfull \hbox (85.35823pt too wide) in paragraph at lines 126--158
+{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc} <./collagelogo.png>] [2]
+Overfull \hbox (85.35823pt too wide) in paragraph at lines 129--161
 []$$[]$ 
  []
 
-[2] [3] (MA.aux)
+[3] (MA.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-23>
@@ -1044,9 +1044,9 @@ Here is how much of TeX's memory you used:
  54196 multiletter control sequences out of 15000+600000
  584065 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,10n,92p,1283b,973s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,10n,92p,1283b,971s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy7.pfb>
-Output written on MA.pdf (3 pages, 293030 bytes).
+Output written on MA.pdf (3 pages, 293991 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)

@@ -1,3 +1,10 @@
+\documentclass[]{article}
+
+\input{MyTools}
+\usepackage{physics}
+
+\begin{document}
+
 \textbf{1-1}
 Using \textit{Successive Approximation Method}\\
 Let initial guess $y_0(t) =x$ Then
@@ -21,10 +28,12 @@ Let $C:=\int_0^1 s y^2(s) \, ds$
     16C^2 -200C+49=0
 \end{equation*}
 We get two solutions
-\begin{cases}
-    y_1(t) = 7t \text{At} C_1 = \frac{49}{4} \\
-    y_2(t) = t \text{At} C_2 = \frac{1}{4}   \\
-\end{cases}
+\[
+    \begin{cases}
+        y_1(t) = 7t \text{At} C_1 = \frac{49}{4} \\
+        y_2(t) = t \text{At} C_2 = \frac{1}{4}   \\
+    \end{cases}    
+\]
 
 %==========================================================================
 Theorem//
@@ -39,3 +48,4 @@ $$|\lambda| < \frac{1}{L(b-a)}$$
 
 %==========================================================================
 
+\end{document}

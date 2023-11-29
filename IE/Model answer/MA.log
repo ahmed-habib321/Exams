@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.30)  29 NOV 2023 15:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.30)  29 NOV 2023 15:15
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Bigly Downloads/VS code/MY Projects/Exams/IE/Exam/Exam.tex"
-(d:/Bigly Downloads/VS code/MY Projects/Exams/IE/Exam/Exam.tex
+**"d:/Bigly Downloads/VS code/MY Projects/Exams/IE/Model answer/MA.tex"
+(d:/Bigly Downloads/VS code/MY Projects/Exams/IE/Model answer/MA.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
 (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -871,8 +871,8 @@ Package zref Info: New property: mdf@pagevalue on input line 895.
 Package: physics 
 )
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 6.
- (Exam.aux)
-\openout1 = `Exam.aux'.
+ (MA.aux)
+\openout1 = `MA.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
@@ -912,9 +912,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 6.
- (Exam.out) (Exam.out)
+ (MA.out) (MA.out)
 \@outlinefile=\write5
-\openout5 = `Exam.out'.
+\openout5 = `MA.out'.
 
 
 *geometry* driver: auto-detecting
@@ -1002,43 +1002,37 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 10.
  (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-<collagelogo.png, id=6, 577.40718pt x 270.25969pt>
-File: collagelogo.png Graphic file (type png)
-<use collagelogo.png>
-Package pdftex.def Info: collagelogo.png  used on input line 22.
-(pdftex.def)             Requested size: 128.0374pt x 59.92743pt.
-
-Overfull \hbox (0.81801pt too wide) in paragraph at lines 22--23
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
 
  []
 
-[1{C:/Users/Ahmed/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 
-{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc} <./collagelogo.png>] (Exam.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 41--45
+
+ []
+
+[1
+
+{C:/Users/Ahmed/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] (MA.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
  ***********
-Package rerunfilecheck Info: File `Exam.out' has not changed.
+Package rerunfilecheck Info: File `MA.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32523 strings out of 475502
- 664221 string characters out of 5761813
- 1931248 words of memory out of 5000000
- 53234 multiletter control sequences out of 15000+600000
- 579802 words of font info for 58 fonts, out of 8000000 for 9000
+ 32499 strings out of 475502
+ 663781 string characters out of 5761813
+ 1935248 words of memory out of 5000000
+ 53217 multiletter control sequences out of 15000+600000
+ 581067 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,10n,92p,1248b,894s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Exam.pdf (1 page, 239715 bytes).
+ 89i,10n,92p,1254b,890s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
+Output written on MA.pdf (1 page, 122655 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 62 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

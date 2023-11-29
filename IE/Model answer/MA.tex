@@ -1,0 +1,41 @@
+\textbf{1-1}
+Using \textit{Successive Approximation Method}\\
+Let initial guess $y_0(t) =x$ Then
+\begin{align*}
+    y_1(t) & = x -\int_0^x (x-t)t \, dt = x-\frac{x^3}{3!}                                \\
+    y_2(t) & = x -\int_0^x (x-t)(t-\frac{t^3}{3!})\, dt = x-\frac{x^3}{3!}+\frac{x^5}{5!} \\
+\end{align*}
+%==========================================================================
+\textbf{1-2}
+Since, $k(t,s)=ts$ separable, we can use \textit{Direct Computational Medthod}\\
+\begin{equation*}
+    y(t) = \frac{7}{8}t + \frac{1}{2}t \int_0^1 ts y^2(s) \, ds
+\end{equation*}
+Let $C:=\int_0^1 s y^2(s) \, ds$
+\begin{align*}
+    y(t) & = \frac{7}{8}t + \frac{1}{2}tC                                                                                       \\
+    C    & = \int_0^1 s \left[\frac{7}{8}s + \frac{1}{2}sC\right]^2 \,ds                                                        \\
+    C    & = \int_0^1 s^3 \left[\frac{7}{8} + \frac{1}{2}C\right]^2 \,ds = \frac{1}{4}\left[\frac{7}{8} + \frac{1}{2}C\right]^2 \\
+\end{align*}
+\begin{equation*}
+    16C^2 -200C+49=0
+\end{equation*}
+We get two solutions
+\begin{cases}
+    y_1(t) = 7t \text{At} C_1 = \frac{49}{4} \\
+    y_2(t) = t \text{At} C_2 = \frac{1}{4}   \\
+\end{cases}
+
+%==========================================================================
+Theorem//
+
+Since $k(t,s)$ is continuous on closed domain $[a,b]\times[a,b]$. so it guarantees the existence of a finite  $L>0$\\
+From \textit{Existence and uniqueness theorem} we are able to prove that the integral equation has a unique continuous solution $y\in C[a,b]$\\
+Since $f,k(t,.) \in C[a,b] \subset L_2[a,b] \quad t \in [a,b]$\\
+Then $M = \int_a^b \int_a^b |k(t,s)|^2 \, ds dt \leq \int_a^b \int_a^b L^2 \, ds dt = L^2 (b-a)^2 $\\
+$$\sqrt{M} \leq L(b-a)$$
+Thus, we deduce that
+$$|\lambda| < \frac{1}{L(b-a)}$$
+
+%==========================================================================
+

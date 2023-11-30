@@ -12,7 +12,6 @@
   }
 }
 \begin{document}
-\thispagestyle{empty}
 \begin{figure}
     \begin{minipage}{0.7\textwidth}
         \begin{tabular}{l l}
@@ -51,8 +50,8 @@
     \end{align*}
     Since $\displaystyle y(x) = \lim_{n \to \infty} y_n(t)$ we deduce that
     \begin{align*}
-        y(t) & =\lim_{n \to \infty}\sum_{k=1}^{n} \frac{(-1)^{n-1}x^{2n+1}}{(2n+1)!} \\
-             & =\sum_{k=1}^{\infty} \frac{(-1)^{n-1}x^{2n+1}}{(2n+1)!} = \sin(x)
+        y(t) & =\lim_{n \to \infty}\sum_{k=1}^{n} \frac{(-1)^{k-1}x^{2k+1}}{(2k+1)!} \\
+             & =\sum_{k=1}^{\infty} \frac{(-1)^{k-1}x^{2k+1}}{(2k+1)!} = \sin(x)
     \end{align*}
 \end{adjustwidth}
 %==========================================================================
